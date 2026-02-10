@@ -147,15 +147,16 @@ A controlled experiment was performed by modifying **only the kernel size**, kee
 
 ## 8. Repository Structure
 
+```text
 ExploringConvolutionalLayers_lab3/
 │
 ├── notebooks/
-│ └── 01_lab.ipynb # Complete analysis and experiments
+│   └── 01_lab.ipynb        
 │
 ├── signals/
-│ ├── DATA/
-│ ├── TEST/
-│ └── labels.csv
+│   ├── DATA/
+│   ├── TEST/
+│   └── labels.csv
 │
 └── README.md
 
