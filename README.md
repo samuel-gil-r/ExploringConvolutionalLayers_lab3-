@@ -30,6 +30,7 @@ This dataset is suitable for CNNs because:
 - It is image-based (2D spatial data)
 - Local patterns such as edges and shapes are important
 - Similar features appear at different spatial locations
+  <img width="1408" height="845" alt="image" src="https://github.com/user-attachments/assets/03f26701-4fc6-451c-a901-7a7a929ab5a4" />
 
 ---
 
@@ -48,7 +49,7 @@ The EDA focuses on understanding the structure of the dataset.
 - Normalize pixel values to the range [0, 1]
 - Convert images to tensors
 
-<img width="1408" height="845" alt="image" src="https://github.com/user-attachments/assets/03f26701-4fc6-451c-a901-7a7a929ab5a4" />
+
 
 
 ---
