@@ -160,7 +160,7 @@ ExploringConvolutionalLayers_lab3/
 │
 └── README.md
 
-
+```
 ---
 
 ## 9. Conclusion
