@@ -25,6 +25,29 @@ The work follows a structured process:
 **Image size (after preprocessing):** 64 × 64 × 3  
 **Number of classes:** 52  
 **Total images:** 5,683  
+### Dataset Source
+
+The dataset used in this project was obtained from Kaggle:
+
+**Road Sign Detection Dataset**  
+Source link: https://www.kaggle.com/datasets/andrewmvd/road-sign-detection/data
+
+This dataset contains labeled images of road and traffic signs in various categories.  
+It was downloaded locally and used for training and evaluation in this lab.
+
+Because of size constraints, the full dataset is **not included** in this repository.  
+Instructions to download the dataset are included here so the reviewer can obtain it if needed.
+
+---
+
+### Why this dataset is suitable for CNNs
+
+This dataset is appropriate for convolutional neural networks because:
+
+- It is image-based (2D spatial data)
+- Local patterns such as edges, shapes, and symbols are important for classification
+- Similar visual features appear at different spatial locations
+- CNNs can exploit spatial locality and weight sharing effectively
 
 This dataset is suitable for CNNs because:
 - It is image-based (2D spatial data)
